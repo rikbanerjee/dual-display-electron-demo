@@ -1,0 +1,22 @@
+{
+  "name": "dual-monitor-slide",
+  "version": "1.0.0",
+  "description": "Dual-monitor kiosk slideshow application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev"
+  },
+  "keywords": [
+    "electron",
+    "slideshow",
+    "kiosk",
+    "dual-monitor"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
+
